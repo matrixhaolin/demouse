@@ -1,5 +1,5 @@
-| Name | Academy | score | | Gender |
+| Name | Academy | score | 
 | - | :-: | -: | --- |
-| Harry Potter | Gryffindor| 90 | 11 |
-| Hermione Granger | Gryffindor | 100 | 22 |
-| Draco Malfoy | Slytherin | 90 | 23|
+| Harry Potter | Gryffindor| 90 |
+| Hermione Granger | Gryffindor | 100 |
+| Draco Malfoy | Slytherin | 90 | 
